@@ -101,19 +101,7 @@
   ],
 
   "paymentMethods": [
-    { "id": 1, "code": "CASH", "name": "Efectivo" },
     { "id": 2, "code": "CARD", "name": "Tarjeta de crédito" },
-    { "id": 3, "code": "DEBIT", "name": "Tarjeta débito" },
-    { "id": 4, "code": "TRANSFER", "name": "Transferencia bancaria" },
-    { "id": 5, "code": "PSE", "name": "Pago PSE" },
-    { "id": 6, "code": "NEQUI", "name": "Nequi" },
-    { "id": 7, "code": "DAVIPLATA", "name": "Daviplata" },
-    { "id": 8, "code": "QR", "name": "Pago con código QR" },
-    { "id": 9, "code": "CHECK", "name": "Cheque" },
-    { "id": 10, "code": "CREDIT", "name": "Crédito o pago a plazos" },
-    { "id": 11, "code": "PAYPAL", "name": "PayPal" },
-    { "id": 12, "code": "STRIPE", "name": "Stripe" },
-    { "id": 13, "code": "CRYPTO", "name": "Criptomonedas" },
-    { "id": 14, "code": "OTHER", "name": "Otro método de pago" }
+    { "id": 3, "code": "DEBIT", "name": "Tarjeta débito" }
   ]
 }
